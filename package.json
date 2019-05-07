@@ -1,0 +1,21 @@
+{
+  "name": "veged-says",
+  "version": "1.0.0",
+  "description": "Ask veged",
+  "main": "alice.js",
+  "scripts": {
+    "test": "mocha",
+    "now-start": "micro"
+  },
+  "keywords": [],
+  "author": "Vladimir Grinenko <i@tadatuta.com>",
+  "license": "MIT",
+  "dependencies": {
+    "bot-brother": "^2.1.5",
+    "micro": "^9.1.4"
+  },
+  "devDependencies": {
+    "mocha": "^6.1.4",
+    "nodemon": "^1.11.0"
+  }
+}
